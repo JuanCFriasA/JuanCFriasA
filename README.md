@@ -43,6 +43,7 @@
 </tr>
 </table>
 
+<div align="center">
 **Previously worked with:**
 <br>
 <a href="https://www.python.org/" title="Python"><img src="/img/python.png" height="32" width="32"/></a>
@@ -51,6 +52,8 @@
 <a href="https://www.mysql.com/" title="MySQL"><img src="/img/mysql.png" height="32" width="32"/></a>
 <a href="https://github.com/" title="GitHub"><img src="/img/github.png" height="32" width="32"/></a>
 <a href="https://www.java.com/es/" title="Java"><img src="/img/Java_programming_language_logo.svg.png" height="32" width="32"/></a>
+<a href="" title="C++"><img src="/img/ISO_C++_Logo.svg.png" height="32" width="32"></a>
+<a href="http://csharp.net/" title="C#"><img src="/img/csharp.png" height="32" width="32" /></a>
 
 **Currently working with:**
 <br>
@@ -59,6 +62,9 @@
 <a href="" title="CSS"><img src="/img/CSS3_logo_and_wordmark.svg.png" height="32" width="32"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="/img/javascript.png" height="32" width="32"/></a>
 
+
+
+</div>
 
 <!-- Footer -->
 
