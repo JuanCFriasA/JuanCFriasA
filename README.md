@@ -48,8 +48,9 @@
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" src="/img/thanks.svg"/>
+<br>
 <img height="100" alt="smilly face" src="/img/smile.gif"> 
-<br />
+<br>
 
 
 </div>
