@@ -47,7 +47,7 @@
 <!-- Footer -->
 
 <div align="center">
-<img height="120" alt="Thanks for visiting me" src="/img/thanks.svg" style="max-width: 100%;" />
+<img height="120" alt="Thanks for visiting me" src="/img/thanks.svg"/>
 <img height="100" alt="smilly face" src="/img/smile.gif"> 
 <br />
 
