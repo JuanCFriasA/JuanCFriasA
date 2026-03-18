@@ -20,7 +20,7 @@
 
 <p>
 
-<img alt="laptop scrolling" height="100" src="/img/giphy.gif">
+<img alt="laptop scrolling" height="80" src="/img/giphy.gif">
 </a>
 </p>
 
@@ -28,14 +28,14 @@
 
 
 <td align="center">
-<a href="https://open.spotify.com/playlist/4qObGAxTKOa33oAh5u7Tbu?si=8807dd3ffced4b88">
+<a href="https://open.spotify.com/playlist/4qObGAxTKOa33oAh5u7Tbu?si=c23c9822e5374cc3">
 <strong>Wanna listen to some tunes?</strong>
 <br />
 <br />
 
 
 <p>
-<img height="100" alt="Music" src="/img/cat-dance-catto-dace.gif"> 
+<img height="100" alt="cat on a dj console" src="/img/cat-dance-catto-dace.gif"> 
 </a>
 </p>
 
