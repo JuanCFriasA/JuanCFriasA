@@ -44,8 +44,11 @@
 </table>
 
 <div align="center">
+  
 **Previously worked with:**
+
 <br>
+
 <a href="https://www.python.org/" title="Python"><img src="/img/python.png" height="32" width="32"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="/img/git.png" height="32" width="32"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="/img/vscode.png" height="32" width="32"/></a>
