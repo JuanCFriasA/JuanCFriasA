@@ -20,7 +20,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="/img/giphy.gif">
+<img alt="Globe" height="100" src="/img/giphy.gif">
 </a>
 </p>
 
