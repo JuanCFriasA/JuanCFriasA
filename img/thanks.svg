@@ -1,0 +1,15 @@
+<svg fill="none" viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
+          color: purple;
+          font-size: 1.5em;
+        }
+
+      </style>
+      <strong>Gracias for visiting my github profile <span class="blink" >Python</span></strong>
+		</div>
+	</foreignObject>
+</svg>
