@@ -44,6 +44,7 @@
 </table>
 
 **Previously worked with:**
+<br>
 <a href="https://www.python.org/" title="Python"><img src="/img/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="/img/git.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="/img/vscode.png" /></a>
@@ -52,6 +53,7 @@
 <a href="https://www.java.com/es/" title="Java"><img src="/img/Java_programming_language_logo.svg.png" /></a>
 
 **Currently working with:**
+<br>
 <a href="https://www.docker.com/" title="Docker"><img src="/img/docker.png" /></a>
 <a href="" title="HTML"><img src="/img/HTML5_logo_and_wordmark.svg.png"></a>
 <a href="" title="CSS"><img src="/img/CSS3_logo_and_wordmark.svg.png"></a>
