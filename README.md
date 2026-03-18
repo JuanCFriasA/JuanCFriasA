@@ -20,7 +20,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="/img/giphy.gif">
+<img alt="laptop scrolling" height="100" src="/img/giphy.gif">
 </a>
 </p>
 
@@ -47,7 +47,6 @@
 <!-- Footer -->
 
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="/img/thanks.svg" />
 <img height="100" alt="smilly face" src="/img/smile.gif"> 
 <br />
