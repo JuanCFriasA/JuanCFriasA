@@ -49,11 +49,12 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="/img/vscode.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="/img/mysql.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="/img/github.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="/img/git.png" /></a>
-<a href="https://www.java.com/es/" title="Java"><img src=img\Java_programming_language_logo.svg.png"/></a>
+<a href="https://www.java.com/es/" title="Java"><img src="/img/Java_programming_language_logo.svg.png" /></a>
 
 **Currently working with:**
 <a href="https://www.docker.com/" title="Docker"><img src="/img/docker.png" /></a>
+<a href="" title="HTML"><img src="/img/HTML5_logo_and_wordmark.svg.png"></a>
+<a href="" title="CSS"><img src="/img/CSS3_logo_and_wordmark.svg.png"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="/img/javascript.png" /></a>
 
 
